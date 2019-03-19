@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  appId: '105841b66fb1c9ff2dc7610f199a4d9a',
+  baseUrl: 'http://'
 };
 
 /*
