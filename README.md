@@ -1,4 +1,5 @@
 # LocalWeatherApp
+![Local weather](https://user-images.githubusercontent.com/46238682/54647807-4156c700-4a61-11e9-9aff-b2941b254927.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
